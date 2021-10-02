@@ -62,7 +62,7 @@ spec:
             - name: MONGODB_HOST
               value: "mongodb"
             - name: MONGODB_PORT
-              value: "27107"
+              value: "27017"
             - name: MONGODB_USERNAME
               value: "mongouser" 
             - name: MONGODB_PASSWORD
